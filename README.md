@@ -8,7 +8,3 @@ Dados los datos proporcionados por el profesor, el trabajo consistió en decidir
 * **data/:** Conjunto de datos proporcionados por el profesor.
 * **code/:** Código R utilizado para el análisis.
 * **report/:** Memoria del proyecto en formatos PDF y Latex, incluyendo el procedimiento utilizado y los resultados obtenidos.
-
-**Cómo ejecutar el código:**
-1. Clona este repositorio
-2. Librerías (creo que no usé ninguna)
