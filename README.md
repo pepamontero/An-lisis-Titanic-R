@@ -3,7 +3,8 @@ Este repositorio contiene un análisis estadístico del famoso conjunto de datos
 Se trata de una actividad evaluable que realicé para la asignatura Estadística de segundo curso del grado en Matemáticas.
 Dados los datos proporcionados por el profesor, el trabajo consistió en decidir qué características influyeron en la supervivencia de los pasajeros del Titanic.
 
-**Contenido:**
+### Contenido:
+
 
 * **data/:** Conjunto de datos proporcionados por el profesor.
 * **code/:** Código R utilizado para el análisis.
